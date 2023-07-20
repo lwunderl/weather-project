@@ -1,0 +1,7 @@
+sources:
+https://www.ncei.noaa.gov/access/homr/file/lcd-stations.txt
+NOAA Integrated Surface Database (ISD) was accessed on DATE from https://registry.opendata.aws/noaa-isd.
+https://www.weather.gov/documentation/services-web-api
+
+license:
+https://www.ncdc.noaa.gov/isd/data-access
